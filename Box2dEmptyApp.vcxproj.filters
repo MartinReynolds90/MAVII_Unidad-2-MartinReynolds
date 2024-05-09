@@ -15,24 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Game.h">
+    <ClInclude Include="..\Src\Box2DHelper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Box2DHelper.h">
+    <ClInclude Include="..\Src\Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SFMLRenderer.h">
+    <ClInclude Include="..\Src\SFMLRenderer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Game.cpp">
+    <ClCompile Include="..\Src\Box2dEmptyApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SFMLRenderer.cpp">
+    <ClCompile Include="..\Src\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Box2dEmptyApp.cpp">
+    <ClCompile Include="..\Src\SFMLRenderer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
